@@ -1,3 +1,3 @@
 # git_trial
 
-commit 1
+commit 2
